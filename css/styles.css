@@ -11099,3 +11099,17 @@ a:hover {
 .footer {
     background-color: #1e3a8a !important;
 }
+
+/* Corrigir cor do texto dentro dos modais */
+.portfolio-modal .modal-body {
+    color: #333 !important;
+}
+
+.portfolio-modal .modal-body p {
+    color: #333 !important;
+}
+
+/* Garantir títulos legíveis */
+.portfolio-modal-title {
+    color: #2c3e50 !important;
+}
